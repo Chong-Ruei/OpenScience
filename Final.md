@@ -370,15 +370,16 @@ I became interested in Open Science because it felt more interdisciplinary compa
 ## Reference and Appendix:
 
 [1]	Satriano, V., Ciancia, E., Filizzola, C., Genzano, N., Lacava, T., & Tramutoli, V. (2023). Landslides Detection and Mapping with an Advanced Multi-Temporal Satellite Optical Technique. Remote Sensing, 15(2), 683.
-https://doi.org/10.3390/rs15030683
+[https://doi.org/10.3390/rs15030683](https://doi.org/10.3390/rs15030683)
 
-[2]	Google Earth Engine Code  https://code.earthengine.google.com/74c9601441dee79efc6c142811275bb4?noload=true
+[2]	Google Earth Engine Code   [
+https://code.earthengine.google.com/74c9601441dee79efc6c142811275bb4?noload=true](https://code.earthengine.google.com/74c9601441dee79efc6c142811275bb4?noload=true)
 
 [3]	Zenodo DOI
-https://zenodo.org/badge/latestdoi/651081706
+[https://zenodo.org/badge/latestdoi/651081706](https://zenodo.org/badge/latestdoi/651081706)
 
 [4]	HTML
-https://Chong-Ruei.github.io/OpenScience-Final
+[https://Chong-Ruei.github.io/OpenScience/Final](https://chong-ruei.github.io/OpenScience/Final)
 
 
 
