@@ -1,4 +1,3 @@
-![CSRSR](CSRSR.jpg)
 # RS6026: Open Science Practices in Remote Sensing Final Report
 
 **111022003 Chong-Ruei, Lin 2023/06/08**
@@ -81,6 +80,7 @@ The analysis in this study relies on the dNDVI (difference NDVI) approach. This 
 Formula 1. dNDVI
 
 **[GEE code](https://code.earthengine.google.com/74c9601441dee79efc6c142811275bb4?noload=true)**
+![Link to github code file](Code.txt)
 
 ```
 // Author: Erin Lindsay. erin.lindsay@ntnu.no
